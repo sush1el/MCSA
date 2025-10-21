@@ -1,5 +1,4 @@
-Run GUI.py to execute the dashboard \n
-Load the model named "mcsa_improved_best.pth" \n
-Sample Images can be loaded from the captured_maps folder \n 
-Install Ollama in order to use the Ollama MLP generator, otherwise just use the template responses\n
-The training script for the model is also available
+- Run GUI.py to execute the dashboard, Load the model named "mcsa_improved_best.pth" 
+- Sample Images can be loaded from the captured_maps folder 
+- Install Ollama in order to use the Ollama MLP generator, otherwise just use the template responses\n
+- The training script for the model is also available
